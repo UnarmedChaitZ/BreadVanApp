@@ -1,4 +1,5 @@
 # COMMANDS
+```bash
 [Database_Commands]
 flask init                                              # Initialize database with sample data
 flask print-data                                        # Print all database entries in tables
@@ -208,3 +209,4 @@ If you are running into errors in gitpod when updateding your github actions fil
 ## Database Issues
 
 If you are adding models you may need to migrate the database with the commands given in the previous database migration section. Alternateively you can delete you database file.
+
