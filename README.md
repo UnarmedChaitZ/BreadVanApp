@@ -1,7 +1,7 @@
 # BreadVanApp
 A Flask application for managing bread van delivery routes and stop requests
 # COMMANDS
-'''bash
+```bash
 [Database_Commands]
 flask init                                              # Initialize database with sample data
 flask print-data                                        # Print all database entries in tables
